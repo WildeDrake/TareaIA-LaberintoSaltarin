@@ -19,7 +19,7 @@ BFS, que, al ser un recorrido en anchura, la primera solución encontrada será 
 ## Ejecutar con:
 python main.py --filename FILENAME --m M --n N --modo MODO
 - FILENAME: Un string para el argumento filename. Es el nombre del archivo de texto que contiene el
-laberinto. El archivo debe estar en la carpeta `Laberinto`.
+laberinto. El archivo debe estar en la carpeta base `TareaIA-LaberintoSaltarin`.
 - M: Un entero para el argumento m. Es el número de filas del laberinto.
 - N: Un entero para el argumento n. Es el número de columnas del laberinto.
 - MODO: Un entero para el argumento modo. Es el modo de ejecución del programa.
