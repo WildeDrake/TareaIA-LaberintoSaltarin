@@ -1,4 +1,4 @@
-# Tarea IA - Laberito Saltarin
+# Tarea IA - Laberinto Saltarín
 
 Un laberinto saltarín se define como una grilla de m por n de números saltarines, una celda
 inicial (en un círculo arriba), y una celda de destino (marcada “0”). En base al número
